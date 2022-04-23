@@ -12,7 +12,7 @@
   ## Installation
   npm install
   ## Usage
-  It's a awesome weather app
+  Search your favorite city to see current and future weather.
   ## License
   apache 2.0
   ## Contributing
