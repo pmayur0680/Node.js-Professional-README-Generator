@@ -16,12 +16,14 @@ You can follow the steps below to install the application on your system.
 `    git clone git@github.com:pmayur0680/Node.js-Professional-README-Generator.git
 `    
 2. Install NPM packages
-`   run npm i to install all dependencies from a package.json file.
-`
+    run `npm i` to install all dependencies from a package.json file.
+
 This application uses inquirer module to capture user input in Node.js command line interface.
 
 ## Usage
-Following is video walkthrough on how to use the application
+Following is video walkthrough on how to use the application.
+https://drive.google.com/file/d/1AQ-CwGdLH0z6MA6RCQWJ92SMP664LzSa/view
+
 ## License
 Distributed under the MIT License.
 ## Contributing
