@@ -22,6 +22,7 @@ This application uses inquirer module to capture user input in Node.js command l
 
 ## Usage
 [<img src="https://user-images.githubusercontent.com/101486770/164952042-8b405aef-1640-4f6e-9182-e6e40da85d95.gif">](https://drive.google.com/file/d/1AQ-CwGdLH0z6MA6RCQWJ92SMP664LzSa/view "Professional README Generator")
+<br />
 You can also visit https://drive.google.com/file/d/1AQ-CwGdLH0z6MA6RCQWJ92SMP664LzSa/view to see video walkthrough hosted on Google Drive.
 ## License
 Distributed under the MIT License.
