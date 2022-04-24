@@ -22,7 +22,7 @@ This application uses inquirer module to capture user input in Node.js command l
 
 ## Usage
 Following is video walkthrough on how to use the application.
-https://drive.google.com/file/d/1AQ-CwGdLH0z6MA6RCQWJ92SMP664LzSa/view
+<iframe src="https://drive.google.com/file/d/1AQ-CwGdLH0z6MA6RCQWJ92SMP664LzSa/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## License
 Distributed under the MIT License.
