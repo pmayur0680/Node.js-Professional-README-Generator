@@ -13,17 +13,15 @@ This application was created to generate high-quality professional README based 
 You can follow the steps below to install the application on your system.
 
 1. Clone the repo
-    git clone git@github.com:pmayur0680/Node.js-Professional-README-Generator.git
-    
+`    git clone git@github.com:pmayur0680/Node.js-Professional-README-Generator.git
+`    
 2. Install NPM packages
-   run npm i to install all dependencies from a package.json file.
-
+`   run npm i to install all dependencies from a package.json file.
+`
 This application uses inquirer module to capture user input in Node.js command line interface.
 
 ## Usage
 Following is video walkthrough on how to use the application
-
-  Search your favorite city to see current and future weather.
 ## License
 Distributed under the MIT License.
 ## Contributing
