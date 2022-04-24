@@ -1,24 +1,34 @@
-# Weather Dashboard
-  ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
-  ## Description
-  Using OpenWeather API to see current and future weather for cities
-  ## Table of Contents
+# Professional README Generator
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+## About Project
+This application was created to generate high-quality professional README based on command-line inputs from user using Node.js
+## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)  
   - [Contributing](#contributing)
   - [Test](#test)  
   - [Questions](#questions)  
-  ## Installation
-  npm install
-  ## Usage
+## Installation
+You can follow the steps below to install the application on your system.
+
+1. Clone the repo
+    git clone git@github.com:pmayur0680/Node.js-Professional-README-Generator.git
+    
+2. Install NPM packages
+   run npm i to install all dependencies from a package.json file.
+
+This application uses inquirer module to capture user input in Node.js command line interface.
+
+## Usage
+Following is video walkthrough on how to use the application
+
   Search your favorite city to see current and future weather.
-  ## License
-  apache 2.0
-  ## Contributing
-  feel free to contribute
-  ## Test
-  npm run test
-  ## Questions
-  You can find me on GitHub at <https://github.com/pmayur0680>
-  Please reach out to me with any questions and concerns at <pmayur0680@gmail.com>
+## License
+Distributed under the MIT License.
+## Contributing
+Please feel free to contribute your own ideas.
+## Test
+npm test
+## Questions
+If you have any questions about this projects, please contact me directly at pmayur0680@gmail.com. You can view more of my projects at https://github.com/pmayur0680.
